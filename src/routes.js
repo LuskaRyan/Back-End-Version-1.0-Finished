@@ -8,6 +8,7 @@ const questionController = require("./controllers/questions");
 const answerController = require("./controllers/answers");
 const feedController = require("./controllers/feed");
 const sessionController = require("./controllers/sessions");
+const categoriesController = require("./controllers/categories");
 
 const studentValidators = require("./validators/students");
 const questionValidators = require("./validators/questions");
